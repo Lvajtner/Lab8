@@ -63,4 +63,8 @@ public class CustomList extends ArrayAdapter<City> {
         if (result != -1) cities.remove(result);
     }
 
+    public int countCities(){
+        return 0;
+    }
+
 }
