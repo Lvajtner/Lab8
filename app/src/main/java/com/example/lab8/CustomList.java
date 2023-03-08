@@ -58,4 +58,9 @@ public class CustomList extends ArrayAdapter<City> {
         return result != -1;
     }
 
+    public void deleteCity(City city){
+
+
+    }
+
 }
